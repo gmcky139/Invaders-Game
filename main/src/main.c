@@ -1,6 +1,6 @@
-#include "task12-1.h"
+#include "task.h"
 
-char data_file[] = "task12-1.dat";
+char data_file[] = "../db/score.dat";
 
 int main() {
     Display *d;

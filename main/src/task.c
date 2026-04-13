@@ -1,4 +1,4 @@
-#include "task12-1.h"
+#include "task.h"
 
 void InitializePlayer(struct Player *player){
     player -> bulletsNum = 30;
